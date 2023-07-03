@@ -1,0 +1,60 @@
+.form{
+    color:white;
+    background-color:transparent;
+    width:413px;
+    text-align: left;
+    padding: 14px ;
+    padding-top:13px ;
+    margin: 57px 503px 120px 741px;
+    border-radius: 19px;
+    border: 2px solid white;
+    position: fixed;
+    height: 469px;
+
+}
+button{
+    background-color:#A2E9FF;
+    color: black;
+    border: 0px;
+    padding:12px;
+    width: 100%;
+
+}
+button:hover{
+    color:blue;
+}
+body{
+    padding: 19px;
+    background-image:url('wallpaperflare.com_wallpaper\ \(2\).jpg');
+    background-repeat:no-repeat;
+    background-size:round;
+}
+h3{
+    font-family: 'Darumadrop One', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 30px;
+    margin-top: -63px;
+}
+.input{
+    width: 96%;
+    padding: 12px;
+    margin: 12px 0px 23px 0px;
+    text-align: left;
+    background-color:#f1f1f1;
+    border: 0px;
+    border-radius:12px ;
+}
+h5{
+    text-align: center;
+    outline-color:red ;
+    outline-style:dashed ;
+    border-color:black ;
+    border-style:solid ;
+}
+p{
+    text-align: right;
+    padding: 10px;
+
+}
